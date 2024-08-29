@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stilegia.github.io/sitemap.html.gz
+Sitemap: https://stilegia.github.io/app/sitemap.html.gz
+Sitemap: https://stilegia.github.io/assets/sitemap.html.gz
+Sitemap: https://stilegia.github.io/css/sitemap.html.gz
+Sitemap: https://stilegia.github.io/includes/sitemap.html.gz
+Sitemap: https://stilegia.github.io/item/sitemap.html.gz
+Sitemap: https://stilegia.github.io/src/sitemap.html.gz
